@@ -170,7 +170,7 @@ export default function Home() {
           </div>
           <ul className="list-disc list-inside text-zinc-300 text-sm space-y-2">
             <li><strong>특수 역량 취득:</strong> 1종 보통(수동) 및 1종 대형 운전면허를 연이어 취득하여, 다목적 및 특수 차량 운행 등 폭넓은 물리적 활동 반경 확보</li>
-            <li><strong>글로벌 인사이트:</strong> 성공적인 호주 체류 경험을 통해 낯선 환경에 유연하게 적응하고 다양한 시각과 글로벌 인사이트 습득</li>
+            <li><strong>글로벌 인사이트:</strong> 최근 다녀온 호주 여행을 통해 새로운 문화와 환경을 경험하며 다양한 시각과 글로벌 인사이트 습득</li>
             <li><strong>커뮤니티 활동:</strong> 한양대 학술 커뮤니티 및 온라인 전략 분석 모임의 멤버로서 지속적인 인사이트 공유 및 리더십 발휘</li>
           </ul>
         </div>
